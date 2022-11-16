@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PabloRuizCuevas
 - 👀 I’m interested in Physics and data analytics
-- 🌱 I’m currently learning vue3
+- 🌱 I’m currently learning svelte
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 
